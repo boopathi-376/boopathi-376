@@ -67,9 +67,6 @@ Focus: Flutter, AI, Full-Stack Development
 
 ---
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Stats
 
