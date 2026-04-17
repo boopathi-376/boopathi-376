@@ -2,12 +2,10 @@
 
 <div align="center">
 
-### Flutter Developer • AI Engineer • Full-Stack Developer
+### Flutter Developer • AI Engineer 
 
 <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-Engineer-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FullStack-Developer-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
 
 ---
