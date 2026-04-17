@@ -78,6 +78,21 @@ Focus: Flutter, AI, Full-Stack Development
 </div>
 
 ---
+## 💻 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Boopathi_376/">
+  <img src="https://img.shields.io/badge/LeetCode-Boopathi__376-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Boopathi_376?theme=dark&font=Nunito&ext=contest" />
+
+</div>
+
+---
 
 ## 🎓 Education & Achievements
 
