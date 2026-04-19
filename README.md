@@ -20,6 +20,7 @@ I specialize in building **production-grade RAG pipelines, LLM-powered chatbots,
 - 🏆 **Smart India Hackathon 2025 Winner** — Smart Education category | ₹1.5 Lakh prize
 - 🤖 Built a Legal AI Chatbot with hybrid retrieval (Qdrant + BM25 + Knowledge Graph + CrossEncoder reranking)
 - ⚡ Experienced with local LLM inference using Ollama and LangGraph pipelines
+- 📊 Built an AI-powered analytics platform with Gemini API, auto-ML, and interactive dashboards
 - 📱 Also build cross-platform apps with Flutter + Firebase
 
 ---
@@ -38,7 +39,14 @@ I specialize in building **production-grade RAG pipelines, LLM-powered chatbots,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 **Mobile & Frontend**
 
@@ -63,6 +71,17 @@ I specialize in building **production-grade RAG pipelines, LLM-powered chatbots,
 - **Pipeline**: LangGraph + Ollama (local LLM) with CrossEncoder reranking
 - **Answer verification** layer to minimize hallucinations and ensure high-confidence outputs
 - `FastAPI` `Qdrant` `BM25` `LangGraph` `Ollama` `Python` `Docker`
+
+---
+
+### 📊 [AI Analytics Platform](https://github.com/boopathi-376/Ai-Analytics-Platform)
+> Upload any dataset → get instant AI-powered analysis, ML predictions, clustering, and natural language Q&A
+
+- **One-click auto-analysis**: data quality scoring, statistical summary, correlation detection, auto-clustering (KMeans with silhouette scoring), and predictive modelling
+- **Gemini 1.5 Flash** powered chatbot — ask questions about your data in plain English
+- **Auto ML**: trains Linear Regression, Random Forest, and Gradient Boosting — selects the best model automatically
+- **Interactive dashboards** with Plotly — histograms, heatmaps, PCA scatter plots, time series charts
+- `Streamlit` `Gemini API` `Scikit-learn` `Plotly` `Pandas` `Python`
 
 ---
 
