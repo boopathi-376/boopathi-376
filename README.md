@@ -1,128 +1,151 @@
-# <div align="center">Hi, I'm Boopathi 👋</div>
+<h1 align="center">Hi, I'm Boopathi 👋</h1>
 
-<div align="center">
+<h3 align="center">LLM/RAG Engineer · AI & Data Science · 3rd Year B.Tech</h3>
 
-### Flutter Developer • AI Engineer 
-
-<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Engineer-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
----
-
-<div align="center">
-<a href="mailto:boopathi5140@gmail.com"><img src="https://img.shields.io/badge/Email-boopathi5140%40gmail.com-red?style=flat-square&logo=gmail"></a>
-<a href="https://github.com/boopathi-376"><img src="https://img.shields.io/badge/GitHub-boopathi--376-black?style=flat-square&logo=github"></a>
-<a href="https://boopathi-0376.web.app"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/boopathi-s-5a54602b3"><img src="https://img.shields.io/badge/LinkedIn-Boopathi-blue?style=flat-square&logo=linkedin"></a>
-</div>
+<p align="center">
+  <a href="mailto:boopathi5140@gmail.com"><img src="https://img.shields.io/badge/Email-boopathi5140%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/boopathi-376"><img src="https://img.shields.io/badge/GitHub-boopathi--376-black?style=flat-square&logo=github"/></a>
+  <a href="https://linkedin.com/in/boopathi-s-5a54602b3"><img src="https://img.shields.io/badge/LinkedIn-Boopathi-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://boopathi-0376.web.app"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=google-chrome"/></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-```yaml
-Name: Boopathi
-Location: Coimbatore, India
-Education: B.Tech AI & Data Science
-College: Dr. Mahalingam College of Engineering and Technology
-CGPA: 8.14
-Focus: Flutter, AI, Full-Stack Development
-```
+I'm a 3rd-year B.Tech student in **Artificial Intelligence & Data Science** at Dr. Mahalingam College of Engineering and Technology, Coimbatore (CGPA: 8.14).
 
-* 📱 Building scalable Flutter applications
-* 🤖 Working on RAG systems, AI agents, and vector databases
-* ⚙️ Developing APIs using FastAPI and secure backend systems
-* 🚀 Interested in full-stack product development and real-world AI solutions
+I specialize in building **production-grade RAG pipelines, LLM-powered chatbots, and vector search systems**. My focus is on making AI systems accurate, fast, and hallucination-resistant — not just demos.
+
+- 🏆 **Smart India Hackathon 2025 Winner** — Smart Education category | ₹1.5 Lakh prize
+- 🤖 Built a Legal AI Chatbot with hybrid retrieval (Qdrant + BM25 + Knowledge Graph + CrossEncoder reranking)
+- ⚡ Experienced with local LLM inference using Ollama and LangGraph pipelines
+- 📱 Also build cross-platform apps with Flutter + Firebase
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**LLM & RAG**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,c,fastapi,mysql,sqlite,docker,git,github,vscode,androidstudio" />
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Pipeline-purple?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-red?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-orange?style=flat-square)
 
-</div>
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 [Legal AI Chatbot](https://github.com/boopathi-376/Legal-AI-Chatbot)
+> RAG chatbot for legal document Q&A with hybrid retrieval and answer verification
+
+- **Hybrid search**: Qdrant (dense) + BM25 (sparse) + Knowledge Graph for maximum retrieval accuracy
+- **Pipeline**: LangGraph + Ollama (local LLM) with CrossEncoder reranking
+- **Answer verification** layer to minimize hallucinations and ensure high-confidence outputs
+- `FastAPI` `Qdrant` `BM25` `LangGraph` `Ollama` `Python` `Docker`
+
+---
+
+### 🤖 [Semantic Filter-Driven Chatbot](https://github.com/boopathi-376/Semantic-Chatbot)
+> Production-ready RAG REST API with semantic filtering and structured JSON output
+
+- Vector search via Qdrant with local LLM inference using Ollama
+- Docker-containerized vector DB — zero external API dependency
+- Structured JSON output with schema validation and filtering logic
+- `FastAPI` `Qdrant` `Ollama` `Docker` `Python`
+
+---
+
+### 🏫 [CPSAM — Student Activity Management Platform](https://github.com/boopathi-376/CPSAM)
+> Centralized mobile platform for student activity submission and dashboard tracking
+
+- Secure REST API integration with JWT-based authentication over HTTPS
+- Real-time activity tracking dashboard built with Flutter
+- `Flutter` `REST APIs` `JWT` `Dart`
+
+---
+
+### ☕ [Full-Stack Cafe Delivery App](https://github.com/boopathi-376/Cafe-Delivery-App)
+> End-to-end mobile delivery app with real-time sync and cloud image storage
+
+- Firebase Authentication + Cloud Firestore for real-time data sync
+- Cloudinary for scalable cloud-based image storage
+- `Flutter` `Firebase` `Cloudinary` `Dart`
+
+---
+
+### 🤖 [Meta-LambdaLads — RL-driven AutoML](https://github.com/boopathi-376/Meta-LambdaLads)
+> Reinforcement learning environment for automated machine learning
+
+- RL agent optimizes model selection and hyperparameter tuning
+- Built with FastAPI backend
+- `Python` `FastAPI` `Reinforcement Learning`
 
 ---
 
 ## 💼 Experience
 
-| Role                           | Company              | Duration            |
-| ------------------------------ | -------------------- | ------------------- |
-| Artificial Intelligence Intern | InFynd, Coimbatore   | Nov 2025 – Jan 2026 |
-| Data Analytics Intern          | Techvolt, Coimbatore | June 2025           |
+| Role | Company | Duration |
+|---|---|---|
+| AI Intern | InFynd, Coimbatore | Nov 2025 – Jan 2026 |
+| Data Analytics Intern | Techvolt, Coimbatore | Jun 2025 |
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Achievements
 
-| Project           | Description                                                     | Stack                         |
-| ----------------- | --------------------------------------------------------------- | ----------------------------- |
-| Cafe Delivery App | Flutter-based cafe ordering and delivery app with Firebase      | Flutter, Firebase, Cloudinary |
-| Semantic Chatbot  | Production-ready RAG chatbot with FastAPI and Qdrant            | Python, FastAPI, Ollama       |
-| CPSAM             | Student activity management platform with secure authentication | Flutter, REST APIs, JWT       |
-| Meta-LambdaLads   | RL-driven AutoML environment                                    | Python, FastAPI, RL           |
+- 🥇 **Smart India Hackathon 2025 Winner** — Smart Education | Team HackHounds | ₹1.5 Lakh
+- 🎙️ Office Bearer, Invictus — AI & DS Association (organized technical events & seminars)
 
 ---
-
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=boopathi-376&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopathi-376&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boopathi-376&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopathi-376&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
+
 ## 💻 LeetCode
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Boopathi_376/">
-  <img src="https://img.shields.io/badge/LeetCode-Boopathi__376-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://leetcard.jacoblin.cool/Boopathi_376?theme=dark&font=Nunito&ext=contest" />
-
-</div>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Boopathi__376-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Boopathi_376/)
 
 ---
 
-## 🎓 Education & Achievements
+## 📈 Currently Exploring
 
-* 🎓 B.Tech in Artificial Intelligence and Data Science
-* 🏆 Smart India Hackathon 2025 Winner
-* 📌 Office Bearer, Invictus (AI & DS Association)
-* ✅ Flutter Essential Training – LinkedIn Learning
-* ✅ Soft Skill Development – NPTEL
-
----
-
-## 📈 Current Focus
-
-```text
-Flutter Architecture
-AI Agents
-LangGraph
-Vector Databases
-RAG Systems
-System Design
+```
+LangGraph Agents      →  multi-step reasoning pipelines
+Advanced RAG          →  self-RAG, corrective RAG, adaptive retrieval
+LLM Evaluation        →  RAGAS, faithfulness scoring
+System Design         →  scalable AI backend architecture
 ```
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-I'm open to internships, freelance projects, hackathons, and collaborations.
-
-⭐ If you like my work, consider following me and checking out my repositories.
-
-</div>
+<p align="center">
+  <i>Open to AI/LLM internships, research collaborations, and hackathons.</i><br/>
+  <b>Let's build something that actually works.</b>
+</p>
