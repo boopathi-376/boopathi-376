@@ -74,17 +74,6 @@ I specialize in building **production-grade RAG pipelines, LLM-powered chatbots,
 
 ---
 
-### 📊 [AI Analytics Platform](https://github.com/boopathi-376/Ai-Analytics-Platform)
-> Upload any dataset → get instant AI-powered analysis, ML predictions, clustering, and natural language Q&A
-
-- **One-click auto-analysis**: data quality scoring, statistical summary, correlation detection, auto-clustering (KMeans with silhouette scoring), and predictive modelling
-- **Gemini 1.5 Flash** powered chatbot — ask questions about your data in plain English
-- **Auto ML**: trains Linear Regression, Random Forest, and Gradient Boosting — selects the best model automatically
-- **Interactive dashboards** with Plotly — histograms, heatmaps, PCA scatter plots, time series charts
-- `Streamlit` `Gemini API` `Scikit-learn` `Plotly` `Pandas` `Python`
-
----
-
 ### 🤖 [Semantic Filter-Driven Chatbot](https://github.com/boopathi-376/Semantic-Chatbot)
 > Production-ready RAG REST API with semantic filtering and structured JSON output
 
