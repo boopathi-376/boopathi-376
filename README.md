@@ -1,21 +1,21 @@
 <a href="https://boopathi-376.web.app"><img src="./assets/banner.jpg" alt="System Craft — how it actually works. Architecture · Systems · AI · Software" width="100%" /></a>
 
 <p align="center">
-  <a href="https://boopathi-376.web.app"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=28&duration=2600&pause=900&color=8B1E2B&center=true&vCenter=true&width=620&height=48&lines=Software+Developer+%40+Levarus;Core+banking+%C2%B7+Oracle+FLEXCUBE;AI+systems%2C+built+end+to+end;Architecture+before+code;Smart+India+Hackathon+2025+Winner" alt="Software Developer @ Levarus · Core banking · AI systems · Architecture before code · SIH 2025 Winner" /></a>
+  <a href="https://boopathi-376.web.app"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&amp;weight=700&amp;size=28&amp;duration=2600&amp;pause=900&amp;color=8B1E2B&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=48&amp;lines=Software+Developer+%40+Levarus;Core+banking+%C2%B7+Oracle+FLEXCUBE;AI+systems%2C+built+end+to+end;Architecture+before+code;Smart+India+Hackathon+2025+Winner" alt="Software Developer @ Levarus · Core banking · AI systems · Architecture before code · SIH 2025 Winner" /></a>
 </p>
 
 <p align="center">
-  <a href="https://boopathi-376.web.app"><img src="https://img.shields.io/badge/Portfolio-boopathi--376.web.app-8B1E2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/boopathisennappan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/Boopathi376"><img src="https://img.shields.io/badge/Hugging_Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="mailto:boopathi5140@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-161616?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://boopathi-376.web.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-6B6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
+  <a href="https://boopathi-376.web.app"><img src="https://img.shields.io/badge/Portfolio-boopathi--376.web.app-8B1E2B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/boopathisennappan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/Boopathi376"><img src="https://img.shields.io/badge/Hugging_Face-Spaces-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" /></a>
+  <a href="mailto:boopathi5140@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-161616?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://boopathi-376.web.app/resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-6B6B6B?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="Résumé" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boopathi-376&label=Profile%20views&color=8B1E2B&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/boopathi-376?tab=followers"><img src="https://img.shields.io/github/followers/boopathi-376?label=Followers&style=flat-square&color=161616" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Open_source-Google_ADK_·_Mycelium-8B1E2B?style=flat-square&logo=github" alt="Open source: Google ADK and Mycelium" />
+  <img src="https://komarev.com/ghpvc/?username=boopathi-376&amp;label=Profile%20views&amp;color=8B1E2B&amp;style=flat-square" alt="Profile views" />
+  <a href="https://github.com/boopathi-376?tab=followers"><img src="https://img.shields.io/github/followers/boopathi-376?label=Followers&amp;style=flat-square&amp;color=161616" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Open_source-Google_ADK_·_Mycelium-8B1E2B?style=flat-square&amp;logo=github" alt="Open source: Google ADK and Mycelium" />
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg" /><img src="./assets/intro-light.svg" alt="System Craft. I study the architecture before I write the code. Currently Software Developer Intern at Levarus (core banking, Oracle FLEXCUBE). Smart India Hackathon 2025 winner. Open source merged into Google ADK and Mycelium." width="100%" /></picture>
@@ -70,17 +70,17 @@ class Boopathi:
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-stack-dark.svg" /><img src="./assets/sec-stack-light.svg" alt="06 Stack — What I build with" width="100%" /></picture>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,docker,java,c,mysql,flutter,dart,firebase,git,githubactions,linux&perline=12" alt="Python · FastAPI · Docker · Java · C · SQL · Flutter · Dart · Firebase · Git · GitHub Actions · Linux" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,docker,java,c,mysql,flutter,dart,firebase,git,githubactions,linux&amp;perline=12" alt="Python · FastAPI · Docker · Java · C · SQL · Flutter · Dart · Firebase · Git · GitHub Actions · Linux" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&amp;logo=qdrant&amp;logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Oracle_FLEXCUBE-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle FLEXCUBE" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Oracle_FLEXCUBE-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle FLEXCUBE" />
 </p>
 
 <br />
@@ -89,7 +89,7 @@ class Boopathi:
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" /><img src="./profile/stats-light.svg" alt="GitHub stats" height="170" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg" /><img src="./profile/langs-light.svg" alt="Top languages" height="170" /></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=boopathi-376&hide_border=true&background=161B22&ring=E5535F&fire=E5535F&currStreakNum=F0F3F6&currStreakLabel=E5535F&sideNums=F0F3F6&sideLabels=8B949E&dates=8B949E&stroke=30363D" /><img src="https://streak-stats.demolab.com?user=boopathi-376&hide_border=true&background=F4F4F2&ring=8B1E2B&fire=8B1E2B&currStreakNum=161616&currStreakLabel=8B1E2B&sideNums=161616&sideLabels=6B6B6B&dates=6B6B6B&stroke=DADAD7" alt="GitHub streak" width="100%" /></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=boopathi-376&amp;hide_border=true&amp;background=161B22&amp;ring=E5535F&amp;fire=E5535F&amp;currStreakNum=F0F3F6&amp;currStreakLabel=E5535F&amp;sideNums=F0F3F6&amp;sideLabels=8B949E&amp;dates=8B949E&amp;stroke=30363D" /><img src="https://streak-stats.demolab.com?user=boopathi-376&amp;hide_border=true&amp;background=F4F4F2&amp;ring=8B1E2B&amp;fire=8B1E2B&amp;currStreakNum=161616&amp;currStreakLabel=8B1E2B&amp;sideNums=161616&amp;sideLabels=6B6B6B&amp;dates=6B6B6B&amp;stroke=DADAD7" alt="GitHub streak" width="100%" /></picture></p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" /><img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" /></picture>
 
@@ -101,4 +101,4 @@ class Boopathi:
   <i>Want to talk about system design, AI architecture or a project? <a href="mailto:boopathi5140@gmail.com">Write to me</a>. I reply to every email.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:8B1E2B&height=140&section=footer&text=Same%20questions.%20A%20deeper%20tomorrow.&fontSize=22&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn" alt="Same questions. A deeper tomorrow." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161616,100:8B1E2B&amp;height=140&amp;section=footer&amp;text=Same%20questions.%20A%20deeper%20tomorrow.&amp;fontSize=22&amp;fontColor=FFFFFF&amp;fontAlignY=72&amp;animation=fadeIn" alt="Same questions. A deeper tomorrow." width="100%" />
