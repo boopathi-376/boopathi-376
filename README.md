@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/boopathi-s-5a54602b3">
     <img src="https://img.shields.io/badge/LinkedIn-Boopathi-blue?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="https://boopathi-0376.web.app">
+  <a href="https://boopathi-376.web.app">
     <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=google-chrome"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ Dr. Mahalingam College of Engineering and Technology, Coimbatore
   <img src="https://img.shields.io/badge/LinkedIn-Boopathi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://boopathi-0376.web.app">
+<a href="https://boopathi-376.web.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
