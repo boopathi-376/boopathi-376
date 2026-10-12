@@ -55,12 +55,23 @@ jobs:
 
       # ---------- 3D contribution calendar ----------
       - name: 3D contribution graph
+        id: contrib3d
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+        continue-on-error: true
+
+      - name: 3D contribution graph (retry)
+        if: steps.contrib3d.outcome == 'failure'
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        continue-on-error: true
 
       - name: Commit generated images
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -72,6 +83,7 @@ jobs:
       # ---------- Contribution snake (crimson) ----------
       - name: Contribution snake
         uses: Platane/snk@v3
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -80,6 +92,7 @@ jobs:
 
       - name: Publish snake to the output branch
         uses: crazy-max/ghaction-github-pages@v4
+        continue-on-error: true
         with:
           target_branch: output
           build_dir: dist
