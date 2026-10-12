@@ -25,33 +25,33 @@ jobs:
 
       # ---------- GitHub stats + top languages (light & dark) ----------
       - name: Stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&title_color=8B1E2B&icon_color=8B1E2B&text_color=2B2B2B&bg_color=F4F4F2&ring_color=8B1E2B
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=8B1E2B&icon_color=8B1E2B&text_color=2B2B2B&bg_color=F4F4F2&ring_color=8B1E2B
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&title_color=E5535F&icon_color=E5535F&text_color=C9D1D9&bg_color=161B22&ring_color=E5535F
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=E5535F&icon_color=E5535F&text_color=C9D1D9&bg_color=161B22&ring_color=E5535F
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Top languages (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&langs_count=6&title_color=8B1E2B&text_color=2B2B2B&bg_color=F4F4F2
           path: profile/langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Top languages (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&langs_count=6&title_color=E5535F&text_color=C9D1D9&bg_color=161B22
           path: profile/langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       # ---------- 3D contribution calendar ----------
       - name: 3D contribution graph
