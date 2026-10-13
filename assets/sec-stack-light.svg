@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="92" viewBox="0 0 880 92"><style>
-    .serif{font-family:Georgia, 'Cormorant Garamond', 'Times New Roman', serif} .sans{font-family:'Segoe UI', -apple-system, Helvetica, Arial, sans-serif} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
-    .fade{animation:fade .7s ease both}
-    @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-    @keyframes pulse{0%,100%{opacity:.9}50%{opacity:.25}}
-    @keyframes ring{0%{r:5;opacity:.7}100%{r:16;opacity:0}}
-    .pulse{animation:pulse 2s ease-in-out infinite}
-    .ring{animation:ring 2s ease-out infinite}
-    </style><circle cx="6" cy="26" r="4" fill="#8B1E2B"/><text x="18" y="30" class="sans" font-size="12" letter-spacing="3" fill="#6B6B6B">06&#160;&#160;STACK</text><rect x="2" y="40" width="28" height="1.5" fill="#8B1E2B"/><text x="2" y="76" class="serif" font-size="30" font-weight="700" fill="#161616">What I build with</text></svg>
